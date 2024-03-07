@@ -56,7 +56,7 @@ dependency-reduced-pom.xml
 README.html
 application.properties
 
-#Ignorar sandbox
-sandbox/
+# Ignorar la carpeta sandbox y su contenido
+sandbox/
 
  
